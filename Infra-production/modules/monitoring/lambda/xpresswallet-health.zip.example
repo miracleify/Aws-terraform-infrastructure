@@ -1,0 +1,7 @@
+PLACEHOLDER
+
+This file represents the generated AWS Lambda deployment package for the XpressWallet third-party health check.
+
+The actual xpresswallet-health.zip file is intentionally excluded from Git because it is a generated build artifact.
+
+Generate the deployment ZIP from the Lambda source code before deployment.
